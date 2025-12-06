@@ -5,7 +5,7 @@ public class PhoneNumberPattern {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc= new Scanner(System.in);
-		String numPattern="(0|[\\+91])?[6-9]\\d{9}";
+		String numPattern="(0|\\+91)?[6-9]\\d{9}";
 		char check;
 		do {
 			System.out.println("Enter phone number:");
