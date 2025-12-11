@@ -1,0 +1,3 @@
+[submodule "Selenium"]
+	path = Selenium
+	url = https://github.com/Sree21112004/SeleniumDemo
